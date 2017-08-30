@@ -1,0 +1,1 @@
+Question 1: id('XXXX XXXX') and id('XXXX') are same in python 2.7 And id('XXXX XXXX')==id('XXXX') - false.
